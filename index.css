@@ -63,7 +63,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     width: 40vw;
-    min-width: 30em;
+    /* min-width: 30em; */
 }
 
 .hero-right-content {
@@ -71,14 +71,14 @@ body {
     justify-content: center;
     align-items: center;
     width: 40vw;
-    min-width: 30em;
+    /* min-width: 30em; */
 }   
 
 .hero-image {
     width: 30vw;
     /* width: 36em; */
     border-radius: 1vw;
-    min-width: 25em;
+    /* min-width: 25em; */
     /* flex: 1 1 24em; */
 }
 
